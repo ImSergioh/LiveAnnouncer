@@ -1,0 +1,7 @@
+name: LiveAnnouncer
+version: '${project.version}'
+main: me.imsergioh.liveannouncer.LiveAnnouncer
+description: BungeeCord plugin to announce livestreamings of Twitch, YouTube etc
+
+commands:
+  live:
